@@ -3,7 +3,7 @@
 set -e
 
 CIRCUIT_NAME="age_check"
-BUILD_DIR="./compiled/build_age"
+BUILD_DIR="./compiled/age_check"
 KEY_DIR="./keys"
 PTAU_NAME="pot12_final.ptau"
 

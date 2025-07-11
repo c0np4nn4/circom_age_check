@@ -13,4 +13,3 @@ template AgeCheck() {
 }
 
 component main = AgeCheck();
-

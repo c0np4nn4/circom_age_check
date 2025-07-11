@@ -2,3 +2,7 @@ node_modules/
 
 proof.json
 publicInputSignals.json
+
+utils/
+
+*.wat
